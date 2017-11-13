@@ -10,7 +10,7 @@ public class Problem1 {
             System.out.println(address); 
         } 
         catch (UnknownHostException uhEx) { 
-        	System.out.println( "test2");
+        	System.out.println( "test3");
         }
     } 
 } 
