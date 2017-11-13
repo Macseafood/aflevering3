@@ -1,3 +1,4 @@
+package Problem1;
 
 import java.net.*;    
 
@@ -9,7 +10,7 @@ public class Problem1 {
             System.out.println(address); 
         } 
         catch (UnknownHostException uhEx) { 
-        	System.out.println( "Could not find local address!");
+        	System.out.println( "test2");
         }
     } 
 } 
